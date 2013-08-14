@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{4DF34FFE-C609-1330-32BA-53944FA39898}</ProjectGuid>
+	<ProjectGuid>{E1FEE915-788A-1903-7C6F-71FC1207BF40}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -44,12 +44,14 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\c_script_zombie_brain.cs" />
-     <Compile Include="Assets\cscript_bullet.cs" />
-     <Compile Include="Assets\cscript_gun.cs" />
-     <Compile Include="Assets\cscript_master.cs" />
-     <Compile Include="Assets\cscript_player.cs" />
-     <Compile Include="Assets\cscript_zombie_spawner.cs" />
+     <Compile Include="Assets\Scripts\c_script_zombie_brain.cs" />
+     <Compile Include="Assets\Scripts\cscript_bullet.cs" />
+     <Compile Include="Assets\Scripts\cscript_doorchecker.cs" />
+     <Compile Include="Assets\Scripts\cscript_gun.cs" />
+     <Compile Include="Assets\Scripts\cscript_master.cs" />
+     <Compile Include="Assets\Scripts\cscript_player.cs" />
+     <Compile Include="Assets\Scripts\cscript_zombie_spawner.cs" />
+     <Compile Include="Assets\Scripts\player_hunt.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
@@ -58,7 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
-      <Project>{7D523BF1-18B4-5BC4-89B3-A4431F0C2D4C}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+      <Project>{6DEFEAD3-C2CF-7CD5-8DFD-EB0483B53367}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

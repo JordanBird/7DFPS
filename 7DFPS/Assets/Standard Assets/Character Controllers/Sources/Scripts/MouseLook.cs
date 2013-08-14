@@ -46,9 +46,7 @@ public class MouseLook : MonoBehaviour {
 		}
 		else if (axes == RotationAxes.MouseX)
 		{
-			Debug.Log (Input.GetAxis ("Mouse X"));
 			transform.Rotate(recoil.y, (Input.GetAxis("Mouse X") * sensitivityX) + recoil.x, recoil.z);
-			Debug.Log (recoil.ToString ());
 			recoil = Vector3.zero;
 		}
 		else

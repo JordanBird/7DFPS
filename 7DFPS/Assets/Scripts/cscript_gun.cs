@@ -42,6 +42,8 @@ public class cscript_gun : MonoBehaviour {
 	
 	private void Fire()
 	{
+		Screen.lockCursor = true;
+		
 		//New
 		RaycastHit hit;
 		
