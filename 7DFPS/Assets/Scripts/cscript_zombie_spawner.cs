@@ -10,6 +10,7 @@ public class cscript_zombie_spawner : MonoBehaviour {
 	public int zombiesToSpawn = 10;
 	
 	public GameObject zombiePrefab;
+	public GameObject requiredDoor;
 	
 	// Update is called once per frame
 	void Update () 
@@ -32,6 +33,12 @@ public class cscript_zombie_spawner : MonoBehaviour {
 	
 	public void SpawnZombies(int amount)
 	{
+		if (requiredDoor != null)
+		{
+			if (requiredDoor.GetComponentInChildren<cscript_doorchecker>().isOpen == false)
+				return;
+		}
+			
 		for (int i = 0; i < amount; i++)
 		{
 			Instantiate(zombiePrefab, this.transform.position, Quaternion.identity);

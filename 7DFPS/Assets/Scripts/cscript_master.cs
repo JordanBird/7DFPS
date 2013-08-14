@@ -3,7 +3,7 @@ using System.Collections;
 
 public class cscript_master : MonoBehaviour 
 {
-	int wave = 1;
+	public int wave = 1;
 
 	public int maxZombies = 100;
 	public int currentZombies = 0;
@@ -50,6 +50,7 @@ public class cscript_master : MonoBehaviour
 			}
 
 			spawnedZombies = 0;
+			currentZombies = -1;
 			wave++;
 		}
 		

@@ -63,14 +63,19 @@ public class c_script_zombie_brain : MonoBehaviour
 		}
 		
 		if (health <= 0)
-			Die ();
+			Die (part);
 	}
 	
-	public void Die ()
+	public void Die (string part)
 	{
 		GameObject.FindGameObjectWithTag ("Master").GetComponent<cscript_master>().RemoveZombie();
 		GameObject.FindGameObjectWithTag ("Player").GetComponent<cscript_player> ().kills++;
-   
+   		
+		if (part != "Head")
+			GameObject.FindGameObjectWithTag ("Player").GetComponent<cscript_player> ().cubes += 5;
+		else
+			GameObject.FindGameObjectWithTag ("Player").GetComponent<cscript_player> ().cubes += 6;
+		
 		Debug.Log ("Die");
 		Destroy (this.GetComponent<Animation> ());
 		Destroy (this.GetComponent<NavMeshAgent> ());

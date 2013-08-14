@@ -37,6 +37,15 @@ public class cscript_gun : MonoBehaviour {
 		{
 			if (Input.GetMouseButtonDown(0))
 				Fire();
+			
+			if (Input.GetKeyDown (KeyCode.R))
+			{
+				if (GameObject.FindGameObjectWithTag("Player").GetComponent<cscript_player>().ammo <= clipSize)
+					return;
+				
+				GameObject.FindGameObjectWithTag("Player").GetComponent<cscript_player>().ammo -= clipSize;
+				GameObject.FindGameObjectWithTag("Player").GetComponent<cscript_player>().clip = clipSize;
+			}
 		}
 	}
 	
@@ -44,11 +53,20 @@ public class cscript_gun : MonoBehaviour {
 	{
 		Screen.lockCursor = true;
 		
-		//New
-		RaycastHit hit;
-		
         if (Input.GetMouseButtonDown(0))
 		{
+			if (GameObject.FindGameObjectWithTag("Player").GetComponent<cscript_player>().clip > 0)
+				GameObject.FindGameObjectWithTag("Player").GetComponent<cscript_player>().clip--;
+			else
+			{
+				if (GameObject.FindGameObjectWithTag("Player").GetComponent<cscript_player>().ammo < clipSize)
+					return;
+				
+				GameObject.FindGameObjectWithTag("Player").GetComponent<cscript_player>().ammo -= clipSize;
+				GameObject.FindGameObjectWithTag("Player").GetComponent<cscript_player>().clip = clipSize;
+			}
+			
+			RaycastHit hit;
 			gameObject.GetComponent<Animation>().Play ();
 			
             Ray ray = Camera.main.ScreenPointToRay(new Vector3(Screen.width / 2, Screen.height / 2, 1));
