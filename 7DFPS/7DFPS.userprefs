@@ -2,13 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\cscript_player.cs">
     <Files>
-      <File FileName="Assets\Rob's 2\GUIDrawer.cs" Line="26" Column="3" />
-      <File FileName="Assets\Scripts\cscript_master.cs" Line="36" Column="40" />
-      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\c_script_zombie_brain.cs" Line="60" Column="15" />
-      <File FileName="Assets\Scripts\cscript_zombie_spawner.cs" Line="13" Column="33" />
-      <File FileName="Assets\Scripts\cscript_player.cs" Line="29" Column="57" />
-      <File FileName="Assets\Scripts\cscript_gun.cs" Line="43" Column="99" />
+      <File FileName="Assets\Rob's 2\GUIDrawer.cs" Line="28" Column="23" />
+      <File FileName="Assets\Scripts\cscript_player.cs" Line="158" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

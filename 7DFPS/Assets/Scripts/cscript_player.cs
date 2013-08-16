@@ -11,8 +11,8 @@ public class cscript_player : MonoBehaviour
 	public int kills = 0;
 	public int lastHitCheck = 25;
 	GameObject[] allZombies;
-	GameObject ammoCrate;
-	GameObject healthCrate;
+	GameObject[] ammoCrates;
+	GameObject[] healthCrates;
 	GameObject[] allDoors;
 	
 	// Use this for initialization
@@ -24,16 +24,13 @@ public class cscript_player : MonoBehaviour
 	void Update ()
 	{		
 		allZombies = GameObject.FindGameObjectsWithTag ("Zombie");
-		ammoCrate = GameObject.FindGameObjectWithTag ("AmmoBox");
-		healthCrate = GameObject.FindGameObjectWithTag ("HealthBox");
+		ammoCrates = GameObject.FindGameObjectsWithTag ("AmmoBox");
+		healthCrates = GameObject.FindGameObjectsWithTag ("HealthBox");
 		allDoors = GameObject.FindGameObjectsWithTag ("Door");
 		
-		if (Input.GetKeyDown (KeyCode.E)) 
-		{
-			checkAmmoBox ();
-			checkHealthBox();
-			checkDoor ();
-		}
+		checkAmmoBox ();
+		checkHealthBox();
+		checkDoor ();
 		
 		if (lastHitCheck == 1) 
 		{			
@@ -53,7 +50,6 @@ public class cscript_player : MonoBehaviour
 		Vector3 difference = new Vector3 (0, 0, 0);
 		float distance = Mathf.Infinity;
 		
-		
 		for (int i = 0; i< allZombies.Length; i++) {
 			GameObject currentCheck = allZombies [i];
 			difference = currentCheck.transform.position - playerPos;
@@ -67,42 +63,68 @@ public class cscript_player : MonoBehaviour
 	
 	void checkAmmoBox ()
 	{
-		if (ammoCrate == null)
+		if (ammoCrates == null)
 			return;
 		
 		Vector3 playerPos = transform.position;
 		Vector3 difference = new Vector3 (0, 0, 0);
 		float distance = Mathf.Infinity;
 		
-		difference = ammoCrate.transform.position - playerPos;
-		distance = difference.sqrMagnitude;
-			
-		if (distance < 20.0f && cubes >= 50) 
+		for (int i = 0; i < ammoCrates.Length; i++) 
 		{
-			ammo = ammo + 30;
-			cubes -= 50;
+			difference = ammoCrates[i].transform.position - playerPos;
+			distance = difference.sqrMagnitude;
+				
+			if (distance < 20.0f && cubes >= 50) 
+			{
+				GameObject.FindGameObjectWithTag ("Master").GetComponent<GUIDrawer>().promptAmmo = true;
+				
+				if (Input.GetKeyDown (KeyCode.E)) 
+				{
+					ammo = ammo + 30;
+					cubes -= 50;
+				}
+				
+				break;
+			}
+			else
+				GameObject.FindGameObjectWithTag ("Master").GetComponent<GUIDrawer>().promptAmmo = false;
 		}
+		
 	}
 	
 	void checkHealthBox ()
 	{
-		if (healthCrate == null)
+		
+		if (healthCrates == null)
 			return;
 		
 		Vector3 playerPos = transform.position;
 		Vector3 difference = new Vector3 (0, 0, 0);
 		float distance = Mathf.Infinity;
-		
-		difference = healthCrate.transform.position - playerPos;
-		distance = difference.sqrMagnitude;
-			
-		if (distance < 20.0f && cubes >= 50 && health < 100) 
+
+		for (int i = 0; i < healthCrates.Length; i++) 
 		{
-			health = health + 10;
-			cubes -= 50;
+			difference = healthCrates[i].transform.position - playerPos;
+			distance = difference.sqrMagnitude;
 			
-			if (health > 100)
-				health = 100;
+			if (distance < 20.0f && cubes >= 50 && health < 100) 
+			{
+				GameObject.FindGameObjectWithTag ("Master").GetComponent<GUIDrawer>().promptHealth = true;
+				
+				if (Input.GetKeyDown (KeyCode.E)) 
+				{
+					health = health + 10;
+					cubes -= 50;
+					
+					if (health > 100)
+						health = 100;
+				}
+				
+				break;
+			}
+			else
+				GameObject.FindGameObjectWithTag ("Master").GetComponent<GUIDrawer>().promptHealth = false;
 		}
 	}
 	
@@ -120,22 +142,35 @@ public class cscript_player : MonoBehaviour
 			difference = allDoors [i].transform.position - playerPos;
 			distance = difference.sqrMagnitude;
 			
-			if (distance < 10.0f) 
+			if (distance < 10.0f && allDoors [i].GetComponent<cscript_doorchecker> ().isOpen == false) 
 			{
-				bool openState = allDoors [i].GetComponent<cscript_doorchecker> ().isOpen;
-			
-				if (openState == false && cubes >= 150) 
+				GameObject.FindGameObjectWithTag ("Master").GetComponent<GUIDrawer>().promptDoor = true;
+				
+				if (Input.GetKeyDown (KeyCode.E)) 
 				{
-					allDoors [i].animation.Play ("Door Opening");
-					allDoors [i].GetComponent<cscript_doorchecker> ().isOpen = true;
-					cubes -= 150;
-				} 
-//				else 
-//				{
-//					allDoors [i].animation.Play ("Door Closing");
-//					allDoors [i].GetComponent<cscript_doorchecker> ().isOpen = false;
-//				}
+					bool openState = allDoors [i].GetComponent<cscript_doorchecker> ().isOpen;
+				
+					if (openState == false && cubes >= 150) 
+					{
+						allDoors [i].animation.Play ("Door Opening");
+						allDoors [i].GetComponent<cscript_doorchecker> ().isOpen = true;
+						cubes -= 150;
+					}
+	//				else 
+	//				{
+	//					allDoors [i].animation.Play ("Door Closing");
+	//					allDoors [i].GetComponent<cscript_doorchecker> ().isOpen = false;
+	//				}
+				}
+				break;
 			}
+			else
+				GameObject.FindGameObjectWithTag ("Master").GetComponent<GUIDrawer>().promptDoor = false;
 		}
+	}
+	
+	void OnGUI()
+	{
+		
 	}
 }

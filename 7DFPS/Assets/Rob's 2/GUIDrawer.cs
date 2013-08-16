@@ -17,7 +17,11 @@ public class GUIDrawer : MonoBehaviour
 	public GUISkin waveText;
 		
 	public bool drawGUI;
-		
+	
+	public bool promptAmmo = false;
+	public bool promptHealth = false;
+	public bool promptDoor = false;
+	
     void OnGUI() 
 	{
 		//Health
@@ -38,5 +42,15 @@ public class GUIDrawer : MonoBehaviour
 		
 		//Waves
 		GUI.Label(new Rect(0,10, Screen.width, 80), "Wave: " + GameObject.FindGameObjectWithTag("Master").GetComponent<cscript_master>().wave.ToString(), waveText.label);
+		
+		//asasas
+		if (promptAmmo == true)
+			GUI.Label (new Rect(10, 100, Screen.width, 50), "Press 'E' to Buy 30 Ammo for £50", waveText.label);
+		
+		if (promptHealth == true)
+			GUI.Label (new Rect(10, 100, Screen.width, 50), "Press 'E' to Buy 10 Health for £50", waveText.label);
+		
+		if (promptDoor == true)
+			GUI.Label (new Rect(10, 100, Screen.width, 50), "Press 'E' to Open the Door for £150", waveText.label);
 	}
 }
