@@ -1,0 +1,2022 @@
+Initialize engine version: 4.2.0f4 (38efbd14869d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1106]
+    Renderer: NVIDIA GeForce GTX 560 Ti  
+    Vendor:   NVIDIA
+    VRAM:     978 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jordan\Documents\GitHub\7DFPS\7DFPS\Shooty Dooty Roo (Beta)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jordan\Documents\GitHub\7DFPS\7DFPS\Shooty Dooty Roo (Beta)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jordan\Documents\GitHub\7DFPS\7DFPS\Shooty Dooty Roo (Beta)_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jordan\Documents\GitHub\7DFPS\7DFPS\Shooty Dooty Roo (Beta)_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jordan\Documents\GitHub\7DFPS\7DFPS\Shooty Dooty Roo (Beta)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jordan\Documents\GitHub\7DFPS\7DFPS\Shooty Dooty Roo (Beta)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jordan\Documents\GitHub\7DFPS\7DFPS\Shooty Dooty Roo (Beta)_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Jordan\Documents\GitHub\7DFPS\7DFPS\Shooty Dooty Roo (Beta)_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jordan\Documents\GitHub\7DFPS\7DFPS\Shooty Dooty Roo (Beta)_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Jordan\Documents\GitHub\7DFPS\7DFPS\Shooty Dooty Roo (Beta)_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.088 seconds
+desktop: 1920x1080 60Hz; virtual: 3360x1080 at -1440,0
+<RI> Initializing input.
+<RI> Input initialized.
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 558)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 558)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 558)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 558)
+
+UnloadTime: 1.076420 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1469.
+Total: 2.263022 ms (FindLiveObjects: 0.135576 ms CreateObjectMapping: 0.039730 ms MarkObjects: 0.477999 ms  DeleteObjects: 0.148683 ms)
+
+Platform assembly: C:\Users\Jordan\Documents\GitHub\7DFPS\7DFPS\Shooty Dooty Roo (Beta)_Data\Managed\Boo.Lang.dll (this message is harmless)
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at cscript_gun.Fire () [0x00000] in <filename unknown>:0 
+  at cscript_gun.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Die
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+

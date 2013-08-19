@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class cscript_master : MonoBehaviour 
@@ -44,9 +44,6 @@ public class cscript_master : MonoBehaviour
 				case 5:
 					ChangeWorldColour (new Color32(128, 0, 0, 128)); // Purple
 					break;
-				case 6:
-					ChangeWorldColour (new Color32(0, 0, 0, 0)); // Black
-					break;
 			}
 
 			spawnedZombies = 0;
@@ -60,7 +57,7 @@ public class cscript_master : MonoBehaviour
 	
 	void OnGUI()
 	{
-		GUI.Label(new Rect(10, 10, 100, 100), string.Format ("Health: {0}\nKills: {1}\nAmmo: {2}", GameObject.FindGameObjectWithTag ("Player").GetComponent<cscript_player>().health, GameObject.FindGameObjectWithTag ("Player").GetComponent<cscript_player>().kills,GameObject.FindGameObjectWithTag ("Player").GetComponent<cscript_player>().ammo));
+		//GUI.Label(new Rect(10, 10, 100, 100), string.Format ("Health: {0}\nKills: {1}\nAmmo: {2}", GameObject.FindGameObjectWithTag ("Player").GetComponent<cscript_player>().health, GameObject.FindGameObjectWithTag ("Player").GetComponent<cscript_player>().kills,GameObject.FindGameObjectWithTag ("Player").GetComponent<cscript_player>().currentGunAmmo));
 	}
 	
 	public void AddZombie()
